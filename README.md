@@ -32,7 +32,7 @@ To get this project running on your local machine:
 
 2. Navigate to the project directory:
     ```bash
-    cd temperature-converter
+    cd temperature_converter
     ```
 
 3. Open the `temp.html` file in your browser to view the app.
